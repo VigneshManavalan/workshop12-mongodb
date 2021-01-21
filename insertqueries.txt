@@ -1,0 +1,24 @@
+db.users.insertOne(
+   { name: "Vignesh", email: "vigneshmanavalan@gmail.com", age: 22 }
+)
+db.users.insertOne(
+   { name: "Shaw", email: "sameenshaw@gmail.com", age: 25 }
+)
+db.users.insertOne(
+   { name: "John", email: "iamjohn@gmail.com", age: 29 }
+)
+db.users.insertOne(
+   { name: "Reese", email: "itsmereese@gmail.com", age: 28 }
+)
+db.users.insertOne(
+   { name: "Harold", email: "harolditis@gmail.com", age: 29 }
+)
+db.users.insertOne(
+   { name: "Finch", email: "finchhere@gmail.com", age: 30 }
+)
+db.users.insertOne(
+   { name: "Fusco", email: "fuscoooo@gmail.com", age: 27 }
+)
+db.users.insertOne(
+   { name: "Bear", email: "woofwoof@gmail.com", age: 18 }
+)
